@@ -232,7 +232,7 @@ Example:
 Swagger UI available at:
 
 ```text
-http://localhost:5000/api-docs
+http://localhost:5000/api/docs
 ```
 
 Provides:
