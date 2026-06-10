@@ -1,4 +1,4 @@
-# 🚀 Internship Job Board Platform
+# Internship Job Board Platform
 
 A full-stack Internship Job Board application built with **Node.js, Express, MongoDB, React, JWT Authentication, Redis Caching, and Swagger API Documentation**.
 
@@ -6,7 +6,7 @@ The platform enables employers to post internship opportunities, applicants to d
 
 ---
 
-## 📌 Features
+##  Features
 
 ### 🌐 Public Features
 
